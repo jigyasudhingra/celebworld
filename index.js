@@ -1,1 +1,1 @@
-alert("Welcome To The Celebrity World")
+alert("Welcome!!!")
